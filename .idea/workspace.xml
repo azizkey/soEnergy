@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55714983-064e-41d1-8835-4467278d9968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senior_Automation_QA_Test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/APIValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/SummerDressesCheckoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/api/CreatePostSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/api/GetCommentSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/api/UpdatePostSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/api/models/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/infrastructure/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/infrastructure/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/pages/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/pages/home/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/so/energy/project/x/pages/home/HomePageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/api/APIValidation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/gui/SummerDressesCheckout.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CxHMeiSNgA8Gscfl4F9TXZc6TG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features/gui" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features/api" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="so.energy.project.x.api.models" />
+      <recent name="so.energy.project.x" />
+      <recent name="" />
+      <recent name="learn.selenium" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="so.energy.project.x" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SummerDressesCheckoutTest">
+    <configuration name="Feature: APIValidation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/api/APIValidation.feature" />
+      <option name="GLUE" value="so.energy.project.x.api so.energy.project.x.infrastructure" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Selenium" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: APIValidation" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APIValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="so.energy.project.x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="so.energy.project.x" />
+      <option name="MAIN_CLASS_NAME" value="so.energy.project.x.APIValidationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SummerDressesCheckoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="so.energy.project.x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="so.energy.project.x" />
+      <option name="MAIN_CLASS_NAME" value="so.energy.project.x.SummerDressesCheckoutTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="features in Selenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="features" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="so.energy.project.x in Selenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="so.energy.project.x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="so.energy.project.x" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SummerDressesCheckoutTest" />
+        <item itemvalue="JUnit.APIValidationTest" />
+        <item itemvalue="JUnit.features in Selenium" />
+        <item itemvalue="Cucumber Java.Feature: APIValidation" />
+        <item itemvalue="JUnit.so.energy.project.x in Selenium" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55714983-064e-41d1-8835-4467278d9968" name="Changes" comment="" />
+      <created>1659737269746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659737269746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
